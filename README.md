@@ -1,4 +1,3 @@
-```markdown
 # Language Translation on VideoCall
 
 A WebRTC-based video calling application that transcribes and translates speech live in each participant's preferred language using the Google Translate API.
