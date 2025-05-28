@@ -15,3 +15,10 @@ A WebRTC-based video calling application that transcribes and translates speech 
 - WebRTC
 - Google Translate API
 - Node.js (for signaling server)
+
+## 📦 Usage
+- Select your preferred language
+- Enter API Key for G-Translate
+- Enter Agora AppID
+- Start a video call
+- Speak normally – transcriptions will appear in your chosen language
